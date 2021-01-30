@@ -16,9 +16,3 @@ const fieldValidator = (req, res = response, next) => {
 module.exports = {
     fieldValidator
 }
-
-/*
-* db user: mern_user
-* db password: WazuJJiYwVq7KaKY
-*
-* */
